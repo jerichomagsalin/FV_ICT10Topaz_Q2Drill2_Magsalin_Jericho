@@ -2,7 +2,7 @@ from pyscript import display, document
 
 # current scores for lists
 
-club_members = {"Gerthy Bausa", "John Black", "Adolf Hitler", "Joaquin Gabriel Mallari Castor", ""}
+club_members = {"Jericho Magsalin"}
 
 def add_member (e):
     global club_members
